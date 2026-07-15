@@ -1,7 +1,6 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
-import Skills from './components/Skills'
 
 function App() {
   return (
@@ -9,7 +8,6 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Skills />
       <div className="h-64 bg-slate flex items-center justify-center">
         <p className="text-muted font-body">More sections coming soon...</p>
       </div>

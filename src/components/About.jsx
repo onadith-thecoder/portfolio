@@ -1,4 +1,4 @@
-import profilePhoto from '../assets/images/profile.jpg'
+import profilePhoto from '../assets/images/profile-removebg-preview.png'
 
 function About() {
 
