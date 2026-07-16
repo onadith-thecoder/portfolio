@@ -3,8 +3,8 @@ import { useState, useEffect } from 'react'
 // Moved outside component — this never changes
 // so it doesn't need to be inside the function
 const titles = [
-  'Aspiring Software Engineer',
-  'Backend Developer in Progress',
+  'Aspiring Full-stack Software Engineer',
+  'UI/UX Neophyte',
   'Open Source Enthusiast',
   'Problem Solver',
 ]
