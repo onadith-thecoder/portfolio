@@ -95,7 +95,7 @@ function Skills() {
         {/* HONEST NOTE */}
         <div className="text-center mt-10">
           <p className="font-body text-muted text-sm max-w-xl mx-auto leading-relaxed">
-            Skills are listed honestly — backed by coursework, projects, or
+            Skills are listed honestly; backed by coursework, projects, &
             active self-study. I believe in transparency over impression management.
           </p>
         </div>

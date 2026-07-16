@@ -12,14 +12,14 @@ function About() {
     {
       icon: '📍',
       label: 'Location',
-      value: 'Nugegoda, Sri Lanka',
-      sub: 'Open to remote opportunities',
+      value: 'Kelaniya, Sri Lanka',
+      sub: 'Open to work and collaborations',
     },
     {
       icon: '💼',
       label: 'Experience',
       value: 'Accounts Assistant',
-      sub: 'Vonlan Constructions — Sanken Group',
+      sub: 'Vonlan Constructions (Pvt) ltd.',
     },
     {
       icon: '🎯',
@@ -30,7 +30,7 @@ function About() {
     {
       icon: '🎸',
       label: 'Interests',
-      value: 'Guitar & Tech Content',
+      value: 'Tech & Guitar Content',
       sub: 'youtube.com/@venukaonadhith6343',
     },
   ]
