@@ -3,7 +3,7 @@ Personal developer portfolio built with React and Tailwind CSS
 # Venuka Onadith - Developer Portfolio
 Personal portfolio website showcasing my projects, skills, and engineering juorney as an aspiring software engineer.
 
-**Live Site:** [venukaonadith.vercel.app](#)
+**Live Site:** [https://venuka-onadith.vercel.app/](#)
 _(Link updated after deployment)_
 
 --------------------------------------------------------------
