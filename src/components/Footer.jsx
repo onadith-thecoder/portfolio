@@ -187,7 +187,7 @@ function Footer() {
             ))}
           </nav>
 
-          {/* SOCIAL ICONS — ALL SEVEN */}
+          {/* SOCIAL ICONS */}
           <div className="flex items-center flex-wrap justify-center gap-3">
             {socialLinks.map((link) => (
               <a
@@ -212,21 +212,10 @@ function Footer() {
         {/* DIVIDER */}
         <div className="w-full h-px bg-primary/10 mb-8" />
 
-        {/* BOTTOM ROW */}
-        <div className="flex flex-col sm:flex-row items-center
-                        justify-between gap-4 text-center">
-          <p className="font-body text-muted text-xs">
-            © 2026 Venuka Onadith. All rights reserved.
-          </p>
-          <p className="font-body text-muted text-xs">
-            Built with{' '}
-            <span className="text-primary">React</span>
-            {' & '}
-            <span className="text-primary">Tailwind CSS</span>
-            {' · Deployed on '}
-            <span className="text-primary">Vercel</span>
-          </p>
-        </div>
+        {/* COPYRIGHT — CENTRED */}
+        <p className="font-body text-muted text-xs text-center">
+          © 2026 Venuka Onadith. All rights reserved.
+        </p>
 
       </div>
     </footer>
